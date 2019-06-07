@@ -1,0 +1,17 @@
+
+https://netlog-viewer.appspot.com/#import
+- parse net-export data from chrome
+chrome://net-export/
+- record data for analysis
+chrome://chrome-urls/
+- useful stuff
+
+https://xdense.net/
+https://test.xdense.net/
+
+https://observatory.mozilla.org
+
+https://caniuse.com
+
+
+FILE: C:\Users\micro\talks\IPC19\chrome-net-export-log.json 
